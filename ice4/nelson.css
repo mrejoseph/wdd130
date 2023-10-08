@@ -1,0 +1,29 @@
+img {
+    max-width: 20%;
+}
+
+body {
+    background-color: palevioletred;
+}
+
+h1, p {
+    text-align: center;
+    color: white;
+}
+
+ol {
+    text-align: left;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+.quote {
+    font-size: 2em;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    color: white;
+}
