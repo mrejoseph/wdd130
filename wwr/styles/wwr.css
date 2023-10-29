@@ -54,6 +54,8 @@ nav a:hover {
 
 .msg {
     background-color: #E7C24F;
+    font-size: .8em;
+    line-height: 1.5em;
 }
 
 footer {
@@ -82,4 +84,12 @@ footer p a:hover {
 
 #hero-img {
     width: 80%;
+}
+
+.home-title {
+    font-size: 2em;
+}
+    
+.book, .join {
+    font-size: 18px;
 }
